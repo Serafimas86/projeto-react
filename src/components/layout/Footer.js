@@ -4,7 +4,7 @@ import styles from './Footer.module.css'
 
 function Footer(){
     return(
-        <Footer className={styles.footer}>
+        <footer className={styles.footer}>
             <ul className={styles.social_list}>
                 <li>
                     <FaFacebook/>
@@ -16,10 +16,11 @@ function Footer(){
                     <FaLinkedin/>
                 </li>
             </ul>
-            <p className={styles.copy_right}>
+            <p 
+                className={styles.copy_right}>
                 <span>Costs</span> &copy; 2024
             </p>
-        </Footer>
+        </footer>
     )
 }
 
