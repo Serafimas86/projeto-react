@@ -27,6 +27,23 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "e30a",
+      "name": "Teste 2",
+      "budget": "10000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "98be"
+    },
+    {
+      "id": "a2cf"
     }
   ],
   "categories": [
