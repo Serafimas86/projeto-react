@@ -1,18 +1,12 @@
 {
   "projects": [
     {
-      "id": "efcc",
-      "cost": 0,
-      "services": [],
-      "name": "teste"
-    },
-    {
       "id": "565d",
       "name": "Projeto teste",
-      "budget": "5000",
+      "budget": "3000",
       "category": {
-        "id": "3",
-        "name": "Desing"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": []
@@ -38,12 +32,6 @@
       },
       "cost": 0,
       "services": []
-    },
-    {
-      "id": "98be"
-    },
-    {
-      "id": "a2cf"
     }
   ],
   "categories": [
