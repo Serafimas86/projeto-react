@@ -3,7 +3,7 @@
     {
       "id": "565d",
       "name": "Projeto teste",
-      "budget": "3000",
+      "budget": "5000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
@@ -20,17 +20,7 @@
         "name": "Desing"
       },
       "cost": null,
-      "services": [
-        {
-          "id": "a3b01ee2-5031-48cc-a9e0-9249c3f56141"
-        },
-        {
-          "name": "Desing",
-          "cost": "10000",
-          "description": "Atualização do serviço de Desing",
-          "id": "895b9c82-3541-4290-b9b9-c496259f414f"
-        }
-      ]
+      "services": []
     },
     {
       "id": "e30a",
